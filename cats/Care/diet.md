@@ -1,5 +1,4 @@
 # Food/ Diet 
-
 Cats are obligate carnivores, which means that they rely on nutrients found only in animal products. Cats evolved as hunters that consume prey that contains high amounts of protein, moderate amounts of fat, and a minimal amount of carbohydrates, and their diet still requires these general proportions today. Cats also require more than a dozen other nutrients, including vitamins, minerals, fatty acids, and amino acids.
 
 
