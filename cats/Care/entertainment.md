@@ -26,4 +26,3 @@ Engage your cat's natural hunting abilities by playing hide-and-seek games. Hide
 This activity taps into their instinctual curiosity and provides a rewarding and interactive experience. It makes for great enrichment while you’re at work or when you need to be gone for extended periods of time.
 Enrichment activities are essential for the well-being of indoor cats. By implementing these ideas, you can provide mental and physical stimulation, prevent boredom, and create a fulfilling environment for your feline companion.
 Remember to observe your cat's preferences and adjust the activities accordingly. With a little creativity and effort, you can ensure that your indoor cat leads a happy, healthy, and enriched life.  
-
