@@ -32,4 +32,5 @@ Once you have determined that a food is complete and balanced, choosing between 
 
 ## Learn More:
 [Health](Care/health.md)
+
 [Entertainment](Care/entertainment.md)
