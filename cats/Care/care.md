@@ -6,3 +6,9 @@ _Caring for a cat involves providing proper nutrition with a meat-based diet, en
 
 ## Learn More On Taking Care Of Cats 
 
+[Health](Care/health.md)
+
+[Food/Diet](Care/diet.md)
+
+[Entertainment](Care/entertainment.md)
+
