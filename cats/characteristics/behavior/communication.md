@@ -57,8 +57,9 @@ _A cat's posture communicates its emotions. It is best to observe cats' natural 
 
 ## Learn More: 
 
-[Habits](behavior/habits.md)
+[Habits](habits.md)
 
+[Behavior](behavior/behavior.md)
 
 
 
