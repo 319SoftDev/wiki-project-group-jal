@@ -10,8 +10,8 @@ _-Each cat has different traits and characteristics that make them unique from e
 ## Want To Know More About Cats Characteristics??
 **Click Here To Learn More**
 
-[Breeds](characteristics/breeds.md)
+[Breeds](breeds.md)
 
 [Behavior](behavior/behavior.md)
 
-[Physical Features](characteristic/features.md)
+[Physical Features](features.md)
