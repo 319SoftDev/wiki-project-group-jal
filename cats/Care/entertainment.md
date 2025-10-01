@@ -37,6 +37,6 @@ Enrichment activities are essential for the well-being of indoor cats. By implem
 Remember to observe your cat's preferences and adjust the activities accordingly. With a little creativity and effort, you can ensure that your indoor cat leads a happy, healthy, and enriched life.  
 
 ## Learn More: 
-[Food/Diet](Care/diet.md)
+[Food/Diet](diet.md)
 
-[Health](Care/health.md) 
+[Health](health.md) 
