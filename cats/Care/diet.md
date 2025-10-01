@@ -29,3 +29,7 @@ A cat’s nutritional requirements change through different stages of life. Thes
 
 In choosing a cat food, it is also important to read the ingredients list. As with human foods, the items are listed in order of decreasing proportional weight. Look for foods in which meat, meat byproducts, or seafood are listed among the first few ingredients, as this indicates the food probably contains enough animal-source ingredients to supply essential amino acids and fatty acids.
 Once you have determined that a food is complete and balanced, choosing between the types of food may be a matter of what your cat prefers. Some cats like canned food, some like dry food, and some like a combination of the two. Choose the ones that work best for your cat.  
+
+## Learn More:
+[Health](Care/health.md)
+[Entertainment](Care/entertainment.md)
