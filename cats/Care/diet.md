@@ -31,6 +31,6 @@ In choosing a cat food, it is also important to read the ingredients list. As wi
 Once you have determined that a food is complete and balanced, choosing between the types of food may be a matter of what your cat prefers. Some cats like canned food, some like dry food, and some like a combination of the two. Choose the ones that work best for your cat.  
 
 ## Learn More:
-[Health](Care/health.md)
+[Health](health.md)
 
-[Entertainment](Care/entertainment.md)
+[Entertainment](entertainment.md)
