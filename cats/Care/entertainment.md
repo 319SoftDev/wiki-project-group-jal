@@ -40,3 +40,8 @@ Remember to observe your cat's preferences and adjust the activities accordingly
 [Food/Diet](diet.md)
 
 [Health](health.md) 
+
+## Go Back Home 
+
+[Cats](../cats.md)
+
