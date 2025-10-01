@@ -4,13 +4,13 @@ Cats are obligate carnivores, which means that they rely on nutrients found only
 
 
 
-### Types of cat food
+## Types of cat food
 * Dry food
 * Semi - moist food
 * Canned food  
 
 
-#### Dry Food
+### Dry Food
 Dry cat food is relatively inexpensive, and since it does not dry out, it offers owners the convenience of “free choice” feeding. However, dry food may be less palatable to a cat than moist or semi-moist food, and depending on the types and quality of the ingredients, may also be less digestible. If you do use dry food, it is important to store unused portions in a cool, dry location, and not to use the food after its expiration date. Owners often buy large amounts of dry food that can sometimes be stored for months, so checking the expiration date before feeding it to your cat is very important. Storing food for a long period of time decreases the activity and potency of many vitamins and increases the likelihood that fats will become rancid. It’s a good idea to store dry cat food in an airtight container to help prevent nutrient deterioration and maintain flavor.  
 
 
