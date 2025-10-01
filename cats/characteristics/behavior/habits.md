@@ -31,3 +31,5 @@ _Common cat habits include sleeping for long hours, grooming themselves, kneadin
 ## Learn More:
 
 [Communication](behavior/communication.md)
+
+[Behavior](behavior.md)
