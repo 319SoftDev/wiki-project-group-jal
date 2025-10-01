@@ -19,7 +19,7 @@ Ensuring your cat's health and well-being involves a comprehensive approach that
 15. Kidney disease: A common issue in older cats that can lead to urinary tract infections.   
 16. Cancer: Various types of cancer can affect cats, including lymphoma and leukemia.
    
-##### Signs of illness: 
+#### Signs of illness: 
 * Lethargy or loss of appetite
 * Weight loss
 * Diarrhea or vomiting
