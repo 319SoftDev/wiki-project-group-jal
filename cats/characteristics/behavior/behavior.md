@@ -28,6 +28,6 @@ When getting a new cat, you should be aware of the 3-3-3 rule.
 
 ## Learn More About Cats Behavior:
 
-[Habits](behavior/habits.md)
+[Habits](habits.md)
 
-[Communication](behavior/communication.md)
+[Communication](communication.md)
