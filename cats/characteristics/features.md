@@ -16,4 +16,4 @@ _-Skin and hair: The tail is part of the spine and generally contains an additio
 
 [Behavior](behavior/behavior.md)
 
-[Breeds](characteristics/breeds.md)
+[Breeds](breeds.md)
