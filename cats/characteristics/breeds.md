@@ -22,4 +22,4 @@ _The domestic short-haired and domestic long-haired cat types are not breeds, bu
 
 [Behavior](behavior/behavior.md)
 
-[Physical Features](characteristics/features.md)
+[Physical Features](features.md)
