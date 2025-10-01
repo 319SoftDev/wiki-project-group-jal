@@ -4,7 +4,7 @@ Cats are obligate carnivores, which means that they rely on nutrients found only
 
 
 
-## Types of cat food
+### Types of cat food
 * Dry food
 * Semi - moist food
 * Canned food  
