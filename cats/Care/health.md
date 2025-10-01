@@ -28,6 +28,6 @@ Ensuring your cat's health and well-being involves a comprehensive approach that
 * Lumps or swelling 
 
 ## Learn More:
-[Food/Diet](Care/diet.md)
+[Food/Diet](diet.md)
 
-[Entertainment](Care/diet.md)
+[Entertainment](entertainment.md)
