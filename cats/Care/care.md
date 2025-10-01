@@ -15,4 +15,4 @@ Being equipped with a basic amount of knowledge and having the right supplies ca
 
 ## Go Back Home 
 
-[Cats](cats.md)
+[Cats](cats/cats.md)
