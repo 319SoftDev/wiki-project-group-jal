@@ -27,4 +27,7 @@ Ensuring your cat's health and well-being involves a comprehensive approach that
 * Changes in urination or defecation
 * Lumps or swelling 
 
+## Learn More:
+[Food/Diet](Care/diet.md)
 
+[Entertainment](Care/diet.md)
