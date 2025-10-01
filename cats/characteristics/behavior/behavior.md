@@ -34,5 +34,5 @@ When getting a new cat, you should be aware of the 3-3-3 rule.
 
 ## Go Back Home 
 
-[Cats](../cats.md)
+[Cats](../../cats.md)
 
