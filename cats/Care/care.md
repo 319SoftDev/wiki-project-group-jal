@@ -13,3 +13,6 @@ Being equipped with a basic amount of knowledge and having the right supplies ca
 
 [Entertainment](entertainment.md)
 
+## Go Back Home 
+
+[Cats](cats.md)
