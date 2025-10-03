@@ -30,6 +30,13 @@ This website is about cats. In this website you learn about cats, their features
     Features
   
   * Behavoir
+    
+    Behavoir
+
+    Communication
+
+    Habits 
+    
  
   
  
