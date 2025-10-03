@@ -8,6 +8,10 @@ This website is about cats. In this website you learn about cats, their features
 
 ## Files/ 
 * Cats
+
+  Overview of cats 
+   
+* Care
   
   Care(Overview)
   
@@ -15,11 +19,7 @@ This website is about cats. In this website you learn about cats, their features
   
   Entertainment
   
-  Health 
-
-* Care
-
+  Health
   
-
-
-* Characteristics 
+* Characteristics
+  
